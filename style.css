@@ -1,0 +1,28 @@
+
+.btnNav {
+    border: none;
+    border-radius: 50%;
+    background-color: white;
+    overflow: hidden;
+}
+
+
+#firstSection {
+    background-color: blueviolet;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+
+.save {
+    margin-left: 65%;
+}
+
+.save:hover {
+    background-color: grey;
+    
+}
+
+#first:hover {
+    height: 800px; /*non funziona, sicuramente uno dei contenitore precedenti impedisce il comportamento desiderato*/
+}

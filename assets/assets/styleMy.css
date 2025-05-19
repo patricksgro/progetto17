@@ -1,0 +1,20 @@
+
+
+
+.btnNav {
+    border: none;
+    border-radius: 50%;
+    background-color: white;
+    overflow: hidden;
+}
+
+
+#firstSection {
+    background-color: blueviolet;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+
+
+
